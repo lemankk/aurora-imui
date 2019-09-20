@@ -25,6 +25,7 @@
         "ReactNative/android/",
         "ReactNative/ios/",
         "ReactNative/*.js",
+        "ReactNative/*.podspec",
         "ReactNative/package.json"
     ],
     "homepage": "https://github.com/jpush/aurora-imui",
